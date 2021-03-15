@@ -2,7 +2,7 @@
 
 CLI(Command Line Interface)환경: 커맨드로 컴퓨터를 사용하는 방식의 환경. GUI이전에 먼저 있었던 방식이다. GUI에 비해 보면 텍스트만 보이기 때문에 성능이 비교적 좋고, 명령이 명확해 실수가 적고 단순하다.
 
-\* GUI - Graphic User Interface
+\* GUI - Graphic User Interface : 사용자가 편리하게 사용할 수 있도록 입출력 등의 기능을 알기 쉬운 아이콘의 그래픽으로 나타낸 것.
 
 
 
